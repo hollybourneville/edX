@@ -1,0 +1,43 @@
+body {
+  background-color: #ffff99;
+
+}
+
+h1 {
+ font-family: Impact;
+ font-weight: 800;
+ font-size: 300%; 
+ color: #ff6600;
+ border: 3px #ff6600 solid;
+ padding: 20px;
+ Padding-left: 10px;
+}
+
+
+h2 {
+font-family: Courier New;
+color: #ffff99;
+Background-color: #ff6600;
+padding-bottom: 20px;
+padding-top: 35px;
+padding-left: 10px
+}
+
+ol {
+background-color: #ffcc00;
+color: #ffff99;
+padding: 20px;
+padding-left: 50px;  
+}
+
+li {
+ font-family: Helvetica;
+ font-weight: 600; 
+ padding: 10px; 
+}
+
+p {
+  font-family: Helvetica;
+  border: 2px #ffcc00 dotted;
+  padding: 10px;
+}
